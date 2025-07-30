@@ -280,13 +280,6 @@ git push origin my-feature-branch
 
 > Now the project maintainers can review and merge your contributions!
 
----
-
-### ✅ Summary:
-
-- Fork → Clone → Branch → Navigate → Change → Push → PR
-- Contribute to open source without affecting the original code directly.
-
 
 ## Module 5: Undoing Changes
 ### Concepts Covered:
